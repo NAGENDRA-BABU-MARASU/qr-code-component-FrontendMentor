@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Github](https://github.com/NAGENDRA-BABU-MARASU/qr-code-component-FrontendMentor.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://qr-code-component-frontend-mentor-nhbuwhgfg.vercel.app/](https://qr-code-component-frontend-mentor-nhbuwhgfg.vercel.app/)
 
 ### Built with
 
@@ -35,8 +35,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Found FrontendMentor today(12-8-2023)🤩. 
-Want to immediately assess my frontend skills so building this simple qr-code-component.
+Found FrontendMentor today(12-8-2023)🤩.  
+Want to immediately assess my frontend skills so building this simple qr-code-component.  
 Learned about flexbox items positioning and discovered many ways to use flexbox for positiong elements in HTML.
 
 ### Useful resources
